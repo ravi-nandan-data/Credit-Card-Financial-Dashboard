@@ -1,6 +1,8 @@
 💳 Credit Card Financial Analytics Dashboard
 <img width="1127" height="650" alt="image" src="https://github.com/user-attachments/assets/b1446ff6-87fe-4de9-8fec-bae83f329f20" />
 
+![Uploading image.png…]()
+
 
 An end-to-end Credit Card Financial Analytics project built using PostgreSQL, SQL, and Power BI.
 The project combines customer information with credit-card transaction data to analyze revenue, transaction behavior, interest earned, customer segments, expenditure patterns, card categories, and quarterly performance.
